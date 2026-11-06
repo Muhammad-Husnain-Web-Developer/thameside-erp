@@ -1,0 +1,7 @@
+﻿I've been building Thameside ERP, a modular business management app for a wholesale operation.
+
+The walkthrough covers inventory and stock movements, purchasing, sales and invoices, accounting reports, HR and payroll, and operational insights. The app uses role-based access, a stock movement ledger, and double-entry journals.
+
+Built with Laravel, Vue 3 and Inertia. Demo data is shown in the video.
+
+#Laravel #VueJS #ERP #SoftwareDevelopment
